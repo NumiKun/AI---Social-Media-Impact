@@ -145,6 +145,7 @@ The trained model was subjected to formal Gauss-Markov diagnostic tests:
 |   |-- evaluation_metrics.json                       # Comprehensive evaluation metrics
 |   |-- coefficients_knowledge.json                   # Standardized coefficients & intercept
 |   `-- model_metadata.json                           # Metadata, feature schema & manifests
+|-- LICENSE                                           # MIT License terms
 |-- README.md                                         # Project documentation and analysis
 `-- requirements.txt                                  # Environment dependencies specification
 ```
@@ -239,4 +240,12 @@ The `Model_Knowledge/` folder contains versioned machine-readable artifacts desi
 
 * **Project**: AI and Social Media Impact Analysis
 * **Role**: Senior Data Scientist Portfolio Project
+* **Author**: NumiKun (Nugroho Rizki)
 * **Repository**: [AI---Social-Media-Impact](https://github.com/NumiKun/AI---Social-Media-Impact)
+
+---
+
+### License
+
+This project is licensed under the terms of the [MIT License](LICENSE).
+
