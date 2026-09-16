@@ -1,0 +1,50 @@
+{
+    "intercept": 72.51797568446284,
+    "features": [
+        {
+            "Feature": "Daily_Social_Media_Hours",
+            "Standardized_Coefficient": -2.9110146314314873,
+            "Absolute_Impact": 2.9110146314314873
+        },
+        {
+            "Feature": "Sleep_Hours",
+            "Standardized_Coefficient": 1.8595154948845358,
+            "Absolute_Impact": 1.8595154948845358
+        },
+        {
+            "Feature": "Physical_Activity_Hours",
+            "Standardized_Coefficient": 1.724417580764015,
+            "Absolute_Impact": 1.724417580764015
+        },
+        {
+            "Feature": "Daily_AI_Tool_Usage_Hours",
+            "Standardized_Coefficient": -0.7835950648187693,
+            "Absolute_Impact": 0.7835950648187693
+        },
+        {
+            "Feature": "Education_Level_University",
+            "Standardized_Coefficient": 0.48018322236209254,
+            "Absolute_Impact": 0.48018322236209254
+        },
+        {
+            "Feature": "Education_Level_High School",
+            "Standardized_Coefficient": -0.3836025479798213,
+            "Absolute_Impact": 0.3836025479798213
+        },
+        {
+            "Feature": "Age",
+            "Standardized_Coefficient": -0.2564887662632603,
+            "Absolute_Impact": 0.2564887662632603
+        },
+        {
+            "Feature": "Gender_Non-binary",
+            "Standardized_Coefficient": -0.19319983370853924,
+            "Absolute_Impact": 0.19319983370853924
+        },
+        {
+            "Feature": "Gender_Male",
+            "Standardized_Coefficient": -0.1761793633869026,
+            "Absolute_Impact": 0.1761793633869026
+        }
+    ]
+}

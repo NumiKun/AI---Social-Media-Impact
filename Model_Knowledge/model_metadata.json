@@ -1,0 +1,31 @@
+{
+    "project": "AI and Social Media Impact Analysis",
+    "author_role": "Senior Data Scientist",
+    "total_records": 16000,
+    "feature_columns": [
+        "Age",
+        "Gender",
+        "Education_Level",
+        "Daily_Social_Media_Hours",
+        "Daily_AI_Tool_Usage_Hours",
+        "Sleep_Hours",
+        "Physical_Activity_Hours"
+    ],
+    "numeric_features": [
+        "Age",
+        "Daily_Social_Media_Hours",
+        "Daily_AI_Tool_Usage_Hours",
+        "Sleep_Hours",
+        "Physical_Activity_Hours"
+    ],
+    "categorical_features": [
+        "Gender",
+        "Education_Level"
+    ],
+    "artifacts": [
+        "mental_health_linear_regression_pipeline.joblib",
+        "evaluation_metrics.json",
+        "coefficients_knowledge.json",
+        "model_metadata.json"
+    ]
+}

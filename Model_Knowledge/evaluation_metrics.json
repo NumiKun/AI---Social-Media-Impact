@@ -1,0 +1,14 @@
+{
+    "model_type": "LinearRegression",
+    "target_variable": "Mental_Health_Score",
+    "train_r2": 0.24640596518419466,
+    "test_r2": 0.23813743595346448,
+    "adjusted_r2": 0.23646668471652044,
+    "mae": 6.332958017904104,
+    "mse": 64.27375442272282,
+    "rmse": 8.017091394185476,
+    "cv_5fold_r2_mean": 0.24492398934210877,
+    "cv_5fold_r2_std": 0.009668752704189692,
+    "cv_5fold_mae_mean": 6.38160462972617,
+    "cv_5fold_rmse_mean": 8.042721438256008
+}
