@@ -1,4 +1,5 @@
 # Impact of AI and Social Media on Student Mental Health
+
 ## Predictive Regression Modeling and Empirical Behavioral Analysis
 
 ---
@@ -239,8 +240,7 @@ The `Model_Knowledge/` folder contains versioned machine-readable artifacts desi
 ### Author and Contribution
 
 * **Project**: AI and Social Media Impact Analysis
-* **Role**: Senior Data Scientist Portfolio Project
-* **Author**: NumiKun (Nugroho Rizki)
+* **Author**: NumiKun
 * **Repository**: [AI---Social-Media-Impact](https://github.com/NumiKun/AI---Social-Media-Impact)
 
 ---
@@ -248,4 +248,3 @@ The `Model_Knowledge/` folder contains versioned machine-readable artifacts desi
 ### License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
-
